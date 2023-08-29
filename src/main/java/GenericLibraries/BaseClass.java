@@ -22,7 +22,7 @@ import Pompages.NewLeadInfoPage;
 import Pompages.NewOrgInfoPage;
 import Pompages.Organizationspage;
 
-
+//hi hello
 public class BaseClass {
            
 	      protected PropertiesUtility property;
